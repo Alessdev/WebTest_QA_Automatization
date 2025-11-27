@@ -1,0 +1,5 @@
+selenium
+behave
+requests
+pytest
+webdriver-manager
